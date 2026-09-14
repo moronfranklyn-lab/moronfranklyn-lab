@@ -39,4 +39,4 @@ A cocktail-making app built with AI.
 
 ## <img src="./assets/icon-contact.svg" width="24" height="24" alt="" /> Find me
 
-<a href="https://github.com/moronfranklyn-lab">GitHub</a> · <a href="https://www.woshipm.com/u/1686057">Woshipm · Chinese articles</a>
+<a href="https://github.com/moronfranklyn-lab">GitHub</a> · <a href="https://www.woshipm.com/u/1686057">Woshipm · Chinese articles</a> · <a href="https://www.douyin.com/user/MS4wLjABAAAAbgkNPDVTamtLP3E6MHh0Y6imbCgT-2HbMkwsf2BnWjtR-z0pdjAIPtcHOxFVk4xR">Douyin</a>
