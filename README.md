@@ -15,6 +15,8 @@ I&#x27;m interested in the decisions between a promising demo and a useful produ
 - **Make ideas tangible.** Build a focused prototype to explore the experience and its trade-offs.
 - **Learn from evidence.** Use feedback and evaluation to decide what to improve next.
 
+<img src="./assets/divider.svg" width="96" height="12" alt="" />
+
 ## Selected work
 
 Useful things I've built with AI.
@@ -24,6 +26,8 @@ Useful things I've built with AI.
 ### XiaoBei
 
 A cocktail-making app built with AI.
+
+<img src="./assets/divider.svg" width="96" height="12" alt="" />
 
 ## Writing
 
