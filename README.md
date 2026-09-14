@@ -25,6 +25,14 @@ Useful things I've built with AI.
 
 A cocktail-making app built with AI.
 
+## Writing
+
+- <a href="https://www.woshipm.com/ai/6464006.html">From Delivering Tools to Changing Organizations: What Is Missing in FDE?</a> <small>(Chinese)</small> — Why reliable handoffs, explicit business rules, and clear ownership matter beyond deploying a working tool.
+
+- <a href="https://www.woshipm.com/it/6460515.html">Why Building a Mac Desktop Pet Became Harder with Eight People Working in Parallel</a> <small>(Chinese)</small> — A look at shared contracts, integration dependencies, and verifiable delivery in teams working with AI agents.
+
+- <a href="https://www.woshipm.com/ai/6456841.html">AI Amnesia: Why Does AI Keep Forgetting Your Name?</a> <small>(Chinese)</small> — A proposed five-layer framework for personal AI memory, with an emphasis on review, updates, and forgetting outdated information.
+
 ## Find me
 
-<a href="https://github.com/moronfranklyn-lab">GitHub</a>
+<a href="https://github.com/moronfranklyn-lab">GitHub</a> · <a href="https://www.woshipm.com/u/1686057">Woshipm · Chinese articles</a>
